@@ -5,7 +5,7 @@ from django.views import generic
 from django.contrib.auth.forms import UserCreationForm
 from django.views import View
 
-from core.models import PetUser
+from core.models import MyUser
 
 
 class MyUserCreationForm(UserCreationForm):
