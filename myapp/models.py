@@ -1,4 +1,5 @@
 # License: MIT
+# Author: https://github.com/faridmv
 
 from django.contrib.auth.models import AbstractUser, UserManager
 from django.core import validators

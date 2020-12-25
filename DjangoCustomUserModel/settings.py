@@ -1,4 +1,5 @@
 # License: MIT
+# Author: https://github.com/faridmv
 
 # ... All other lines
 

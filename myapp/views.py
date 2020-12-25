@@ -1,4 +1,5 @@
 # License: MIT
+# Author: https://github.com/faridmv
 
 from django.contrib.auth import authenticate, login
 from django.shortcuts import render, redirect
